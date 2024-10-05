@@ -28,6 +28,8 @@
 实测，作者的i5-6200渣机平均100FPS+。
 ## 下载
 modrinth: <https://modrinth.com/modpack/create-plus-modpack>
+## 注
+这是1.20.1Forge版本的Git仓库，也是主仓库。
 ## 整合包版本
 <details>
 <summary>1.x.x</summary>
