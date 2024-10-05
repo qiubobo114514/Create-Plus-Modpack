@@ -6,12 +6,12 @@
 ## 计划支持
 |      |**forge**|**fabric**|**neoforge**|
 | ---- | ---- | ---- | ---- |
-|**1.21**|<font color = blue>待机械动力支持1.21forge后将会支持</font>|<font color = blue>待机械动力支持1.21fabric后将会支持</font>|<font color = blue>待机械动力支持1.21neoforge后将会支持</font>|
-|**1.20.2~1.20.6**|<font color = red>因机械动力无计划支持1.20.2~1.20.6所以不支持</font>|<font color = red>因机械动力无计划支持1.20.2~1.20.6所以不支持</font>|<font color = red>因机械动力无计划支持1.20.2~1.20.6所以不支持</font>|
-|**1.20.1**|<font color = green>完全支持</font>|<font color = green>完全支持</font>|<font color = green>完全支持</font>|
-|**1.19.3&4**|<font color = red>因机械动力无计划支持1.19.3&4所以不支持</font>|<font color = red>因机械动力无计划支持1.19.3&4所以不支持</font>|<font color = red>因机械动力无计划支持1.19.3&4所以不支持</font>|
-|**1.19.2**|<font color = blue>未来可能支持</font>|<font color = blue>未来可能支持</font>|      |
-|**1.18.2及以下**|<font color = red>无支持计划</font>|<font color = red>无支持计划</font>|      |
+|**1.21**|$\color{blue}待机械动力支持1.21forge后将会支持$|$\color{blue}待机械动力支持1.21fabric后将会支持$|$\color{blue}待机械动力支持1.21neoforge后将会支持$|
+|**1.20.2~1.20.6**|$\color{red}因机械动力无计划支持1.20.2-1.20.6所以不支持$|$\color{red}因机械动力无计划支持1.20.2-1.20.6所以不支持$|$\color{red}因机械动力无计划支持1.20.2-1.20.6所以不支持$|
+|**1.20.1**|$\color{green}完全支持$|$\color{green}完全支持$|$\color{green}完全支持$|
+|**1.19.3&4**|$\color{red}因机械动力无计划支持1.19.3-1.19.4所以不支持$|$\color{red}因机械动力无计划支持1.19.3-1.19.4所以不支持$|$\color{red}因机械动力无计划支持1.19.3-1.19.4所以不支持$|
+|**1.19.2**|$\color{blue}未来可能支持$|$\color{blue}未来可能支持$|      |
+|**1.18.2及以下**|$\color{red}无支持计划$|$\color{red}无支持计划$|      |
 ## 帮助
 ### 怎么安装？
 整合包后缀为mrpack格式，直接将文件导入到启动器就行。
