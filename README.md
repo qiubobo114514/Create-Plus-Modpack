@@ -26,6 +26,8 @@
 - 等其他的设置（自己看）...
 ## 优化效果
 实测，作者的i5-6200渣机平均100FPS+。
+## 下载
+modrinth: <https://modrinth.com/modpack/create-plus-modpack>
 ## 整合包版本
 <details>
 <summary>1.x.x</summary>
